@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: yalkarnawi19/frontend-app:25
+        image: yalkarnawi19/frontend-app:26
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
